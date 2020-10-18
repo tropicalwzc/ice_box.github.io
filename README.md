@@ -1,4 +1,4 @@
-# ice_box.github.io
+# ice_box
 
 <https://apps.apple.com/cn/app/ice-box/id1482591004>
 
